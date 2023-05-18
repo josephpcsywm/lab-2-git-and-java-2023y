@@ -40,6 +40,10 @@ public class IntroLab {
      * As a reference, we've provided the sample method exampleStudent.
      * Make sure you document your method properly!
      */
+    public static String chenm239() {
+        return printLabMessage("Ciao", "Nick", true,
+                "What is love? Baby don't hurt me, don't hurt me, no more");
+    }
 
     /**
      * An example method that calls on printLabMessage.
